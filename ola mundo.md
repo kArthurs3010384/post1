@@ -1,6 +1,6 @@
 # Função de Ativação, o Núcleo da Composição de Neurônios Artificiais
 
-
+# Material retirado de https://eailab.labmax.org/2024/02/28/funcao-de-ativacao-o-nucleo-da-composicao-de-neuronios-artificiais/#:~:text=Um%20neur%C3%B4nio%20artificial%20pode%20ser,deve%20ser%20desprezada%20%5B4%5D.
 # INTRODUÇÃO
 
 As redes neurais artificiais – RNAs (artificial neural networks – ANN)
